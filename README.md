@@ -8,8 +8,13 @@ Swivel is a Java-based Command-Line Interface (CLI) tool designed to simplify in
 - **Logistics Integration:** Seamlessly integrate Swivel into logistics workflows, enabling logistics professionals to effectively manage inventory and streamline logistical operations.
 - **Customization:** Tailor Swivel to meet specific warehouse and logistics requirements through customizable settings and configurations.
 
+### Requirements:
+- **Java 8**
+- **postgresql**
+
 ### Updates:
 It is currently under development and will be hopefully up by mid of July 2024.
+It is currently built to support only postgresql. Support for mysql will be provided later.
 
 
 
