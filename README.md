@@ -1,4 +1,4 @@
-## Swivel: Simple Warehouse Inventory Visualization Environment for Logistics
+# Swivel: Simple Warehouse Inventory Visualization Environment for Logistics
 
 Swivel(Simple Warehouse Inventory Visualization Environment for Logistics) is a Java-based Command-Line Interface (CLI) tool designed to simplify inventory management within logistics operations. With Swivel, users can efficiently visualize, track, and manage inventory in warehouse environments, streamlining logistical processes and enhancing operational efficiency.
 
